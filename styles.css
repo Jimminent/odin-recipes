@@ -17,3 +17,8 @@ img {
     width: fit-content;
     margin: auto;
 }
+
+.home-link {
+    display: block;
+    text-align: center;
+}
