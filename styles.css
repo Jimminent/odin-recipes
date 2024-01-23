@@ -3,7 +3,7 @@
     font-family: 'Comic Sans MS', 'Courier New', Georgia, serif;
 }
 
-h1 {
+h1, h2 {
     text-align: center;
 }
 
@@ -11,4 +11,9 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.container {
+    width: fit-content;
+    margin: auto;
 }
