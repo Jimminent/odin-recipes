@@ -10,6 +10,8 @@ h1, h2 {
 
 p {
     text-align: center;
+    margin: auto;
+    max-width: 1000px;
 }
 
 img {
@@ -31,5 +33,5 @@ img {
 .shared-line {
     display: inline-block;
     vertical-align: top;
-    width: 500px;
+    max-width: 500px;
 }
