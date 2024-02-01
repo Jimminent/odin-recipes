@@ -30,4 +30,5 @@ img {
 
 .shared-line {
     display: inline-block;
+    vertical-align: top;
 }
